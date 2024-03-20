@@ -1,4 +1,4 @@
-### Hi👋
+### Hi, I'm Marius!👋
 
 * :robot: I am currently working as a Research Scientist @ Continental
 * :rocket: I'm passionate about Computer Vision, 3D and Video prediction
